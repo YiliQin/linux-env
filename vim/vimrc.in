@@ -3,9 +3,9 @@ filetype on	" open filetype detection
 set shell=/bin/sh	" set shell, if not, there some problems
 set nocompatible	" not compatible to Vi
 set nu
-set tabstop=4	" tab space = 2, default = 8
-set shiftwidth=4 " indent space = 2, default = 8
-set softtabstop=4 " set the numbers of columns for a TAB
+set tabstop=2	" tab space = 2, default = 8
+set shiftwidth=2 " indent space = 2, default = 8
+set softtabstop=2 " set the numbers of columns for a TAB
 set expandtab " expand TABs to spaces
 set wildmenu	" command complement
 set hlsearch	" hight light search result
